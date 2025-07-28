@@ -6,7 +6,7 @@ result = 0
 op  = ' '
 
 while True:
-    num1 = int(input('Digite um número:')) #ler o primeiro numero
+    num1 = int(input('Digite um número:')) 
 
     op = input('Digite a operação matemática')
     num2 = int(input('Digite outro número:'))
